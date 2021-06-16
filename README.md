@@ -27,21 +27,26 @@ My COVID Story page with a form field to submit your testimonial with a CTA butt
 ![image](https://user-images.githubusercontent.com/74724116/122221073-91d25e80-cece-11eb-86b5-260f431ff8a3.png)
 
 Testimonials page:
-
+![image](https://user-images.githubusercontent.com/74724116/122221037-8848f680-cece-11eb-9181-ac9576ea6326.png)
 
 Mild Cases:
+
 ![image](https://user-images.githubusercontent.com/74724116/122221101-972fa900-cece-11eb-83d4-4d5657f22b9c.png)
 
 Moderate Cases:
+
 ![image](https://user-images.githubusercontent.com/74724116/122221188-aca4d300-cece-11eb-9259-6e1ec65c0e5e.png)
 
 Severe Cases:
+
 ![image](https://user-images.githubusercontent.com/74724116/122221206-b2021d80-cece-11eb-901b-cf976d7391fe.png)
 
 Expanded testimonial page:
+
 ![image](https://user-images.githubusercontent.com/74724116/122221232-b62e3b00-cece-11eb-8360-25c3227ea533.png)
 
 Keyword search feature:
+
 ![image](https://user-images.githubusercontent.com/74724116/122221342-d2ca7300-cece-11eb-8332-fad38c873750.png)
 
 Adding comments to testimonials:
